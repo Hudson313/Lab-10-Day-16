@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab_10_Day_16
 {
-    public class Class1
+    public class StoredList
     {
     }
 }
